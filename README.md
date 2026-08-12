@@ -80,6 +80,41 @@
     ⋆｡　　✦　　　˚　　　·　　　✧　　　　⋆　　　✦
   </p>
 
+  <div align="center">
+
+  <p>
+    ✦　　　⋆　　　˚　　　　✧　　　·　　　✦
+  </p>
+
+  <img
+    src="./bow-art.png"
+    width="55%"
+    alt="Pink dotted bow"
+  />
+
+  <br><br>
+
+  <a href="./Laraib-Nadeem-Resume.pdf">
+    <img
+      src="https://img.shields.io/badge/View_My_Résumé-F4B8CF?style=for-the-badge&logo=adobeacrobatreader&logoColor=08080B"
+      alt="View Laraib's résumé"
+    />
+  </a>
+
+  <br><br>
+
+  <p>
+    ⋆｡　　　✦　　　˚　　　·　　　✧　　　　⋆
+  </p>
+
+  <p>
+    ୨ৎ　·　˚　──────　♡　──────　˚　·　୨ৎ
+  </p>
+
+</div>
+
+<br>
+
   <p>
     ──────୨ৎ──────　♡　──────୨ৎ──────
   </p>
