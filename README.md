@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**laraib-nadeem/laraib-nadeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre>
+              /\_____/\
+             /  o   o  \
+            ( ==  ^  == )
+             )         (
+            (           )
+           ( (  )   (  ) )
+          (__(__)___(__)__)
+</pre>
 
-Here are some ideas to get you started:
+<h3>Hi, I’m Laraib ♡</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+Computer Science + Applied AI at Oregon State University<br>
+I like building things, making art, and turning ideas into projects.
+</p>
+
+</div>
