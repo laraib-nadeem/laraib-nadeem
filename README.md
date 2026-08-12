@@ -36,14 +36,11 @@
     understanding of people.
   </p>
 
-  <pre>
-        laraib.exe
-
-        builds   › software with a purpose
-        explores › AI for real-world problems
-        brings   › technical + creative thinking
-        powered  › curiosity and cat supervision
-  </pre>
+ <img
+  src="./about-card.svg"
+  width="100%"
+  alt="Laraib status card"
+/>
 
   <p>˚₊‧ ୨୧ ‧₊˚　✦　˚₊‧ ୨୧ ‧₊˚</p>
 
