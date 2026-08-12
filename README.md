@@ -49,3 +49,44 @@
 
 </div>
 
+<br>
+
+<div align="center">
+
+  <p>
+    ✦　　　　⋆　　　˚　　　　　✧　　　⋆｡　　　✦
+  </p>
+
+  <p>
+    ୨ৎ　·　˚　──────　♡　──────　˚　·　୨ৎ
+  </p>
+
+  <br>
+
+  <a href="https://www.linkedin.com/in/laraib-nadeem-7bb829262/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-F4B8CF?style=for-the-badge&logo=linkedin&logoColor=08080B"
+      alt="LinkedIn"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:nadeeml@oregonstate.edu">
+    <img
+      src="https://img.shields.io/badge/Email-F4B8CF?style=for-the-badge&logo=gmail&logoColor=08080B"
+      alt="Email"
+    />
+  </a>
+
+  <br><br>
+
+  <p>
+    ⋆｡　　✦　　　˚　　　·　　　✧　　　　⋆　　　✦
+  </p>
+
+  <p>
+    ──────୨ৎ──────　♡　──────୨ৎ──────
+  </p>
+
+</div>
+
+<br>
