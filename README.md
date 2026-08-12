@@ -97,7 +97,7 @@
     and relevant coursework.
   </p>
 
-  <a href="./Laraib-Nadeem-Resume.pdf">
+  <a href="https://github.com/laraib-nadeem/laraib-nadeem/raw/main/Laraib-Nadeem-Resume.pdf">
     <img
       src="./resume-button.svg"
       width="58%"
