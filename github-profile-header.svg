@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Animated ASCII butterfly header for Laraib</title>
+  <desc id="desc">Mirrored ornamental corners surround a butterfly while scattered stars slowly appear.</desc>
+
+  <style>
+    :root { color-scheme: light dark; }
+    .canvas { fill: #ffffff; }
+    .ink { fill: #1f2328; }
+    .soft { fill: #59636e; }
+    text {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+      white-space: pre;
+    }
+    .draw {
+      opacity: 0;
+      animation: reveal 700ms cubic-bezier(.2,.8,.2,1) forwards;
+    }
+    .twinkle {
+      opacity: 0;
+      transform-box: fill-box;
+      transform-origin: center;
+      animation: twinkle 3.2s ease-in-out infinite;
+    }
+    @keyframes reveal {
+      from { opacity: 0; transform: translateY(5px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes twinkle {
+      0%, 18%, 100% { opacity: .18; transform: scale(.8); }
+      42%, 70% { opacity: 1; transform: scale(1.1); }
+    }
+    @media (prefers-color-scheme: dark) {
+      .canvas { fill: #0d1117; }
+      .ink { fill: #e6edf3; }
+      .soft { fill: #9da7b1; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .draw, .twinkle { opacity: 1; animation: none; transform: none; }
+    }
+  </style>
+
+  <rect class="canvas" width="1200" height="430" rx="18"/>
+
+  <!-- Left ornamental corner -->
+  <g class="ink" font-size="15">
+    <text class="draw" x="30" y="48" style="animation-delay:.10s">        ....:::::....</text>
+    <text class="draw" x="30" y="67" style="animation-delay:.18s">     ..::'         `::..</text>
+    <text class="draw" x="30" y="86" style="animation-delay:.26s">   .::'    ..:::..    `::───────────·</text>
+    <text class="draw" x="30" y="105" style="animation-delay:.34s">  ::    .::'     `::.    ::.</text>
+    <text class="draw" x="30" y="124" style="animation-delay:.42s"> ::   .:'    .-.    `:.   `::.</text>
+    <text class="draw" x="30" y="143" style="animation-delay:.50s"> ::  ::     (   )     ::     `::──·</text>
+    <text class="draw" x="30" y="162" style="animation-delay:.58s"> `:.  `:.    `-'    .:'</text>
+    <text class="draw" x="30" y="181" style="animation-delay:.66s">   `::.  `::.....::'   .::.</text>
+    <text class="draw" x="30" y="200" style="animation-delay:.74s">      `::..       ..::'   `::.</text>
+    <text class="draw" x="30" y="219" style="animation-delay:.82s">          `:::::::'         `::.</text>
+    <text class="draw" x="30" y="238" style="animation-delay:.90s">             ::               `::.</text>
+    <text class="draw" x="30" y="257" style="animation-delay:.98s">             `::.                ::</text>
+    <text class="draw" x="30" y="276" style="animation-delay:1.06s">                `::.           .:'</text>
+    <text class="draw" x="30" y="295" style="animation-delay:1.14s">                   `::..   ..::'</text>
+    <text class="draw" x="30" y="314" style="animation-delay:1.22s">                       `:::'</text>
+    <text class="draw" x="30" y="333" style="animation-delay:1.30s">                         `:.</text>
+    <text class="draw" x="30" y="352" style="animation-delay:1.38s">                           `::..</text>
+    <text class="draw" x="30" y="371" style="animation-delay:1.46s">                               `·</text>
+  </g>
+
+  <!-- Mirrored right ornamental corner -->
+  <g transform="translate(1200 0) scale(-1 1)" class="ink" font-size="15">
+    <text class="draw" x="30" y="48" style="animation-delay:.10s">        ....:::::....</text>
+    <text class="draw" x="30" y="67" style="animation-delay:.18s">     ..::'         `::..</text>
+    <text class="draw" x="30" y="86" style="animation-delay:.26s">   .::'    ..:::..    `::───────────·</text>
+    <text class="draw" x="30" y="105" style="animation-delay:.34s">  ::    .::'     `::.    ::.</text>
+    <text class="draw" x="30" y="124" style="animation-delay:.42s"> ::   .:'    .-.    `:.   `::.</text>
+    <text class="draw" x="30" y="143" style="animation-delay:.50s"> ::  ::     (   )     ::     `::──·</text>
+    <text class="draw" x="30" y="162" style="animation-delay:.58s"> `:.  `:.    `-'    .:'</text>
+    <text class="draw" x="30" y="181" style="animation-delay:.66s">   `::.  `::.....::'   .::.</text>
+    <text class="draw" x="30" y="200" style="animation-delay:.74s">      `::..       ..::'   `::.</text>
+    <text class="draw" x="30" y="219" style="animation-delay:.82s">          `:::::::'         `::.</text>
+    <text class="draw" x="30" y="238" style="animation-delay:.90s">             ::               `::.</text>
+    <text class="draw" x="30" y="257" style="animation-delay:.98s">             `::.                ::</text>
+    <text class="draw" x="30" y="276" style="animation-delay:1.06s">                `::.           .:'</text>
+    <text class="draw" x="30" y="295" style="animation-delay:1.14s">                   `::..   ..::'</text>
+    <text class="draw" x="30" y="314" style="animation-delay:1.22s">                       `:::'</text>
+    <text class="draw" x="30" y="333" style="animation-delay:1.30s">                         `:.</text>
+    <text class="draw" x="30" y="352" style="animation-delay:1.38s">                           `::..</text>
+    <text class="draw" x="30" y="371" style="animation-delay:1.46s">                               `·</text>
+  </g>
+
+  <!-- Center butterfly -->
+  <g class="ink" font-size="17" text-anchor="middle">
+    <text class="draw" x="600" y="103" style="animation-delay:1.05s">.==-.                   .-==.</text>
+    <text class="draw" x="600" y="126" style="animation-delay:1.18s">\()8`-._  `.   .'  _.-'8()/</text>
+    <text class="draw" x="600" y="149" style="animation-delay:1.31s">(88"   ::.  \./  .::   "88)</text>
+    <text class="draw" x="600" y="172" style="animation-delay:1.44s">\_.'`-::::.(#).::::-'`._/</text>
+    <text class="draw" x="600" y="195" style="animation-delay:1.57s">`._... .q(_)p. ..._.' </text>
+    <text class="draw" x="600" y="218" style="animation-delay:1.70s">""-..-'|=|`-..-""</text>
+    <text class="draw" x="600" y="241" style="animation-delay:1.83s">.""' .'|=|`. `"".</text>
+    <text class="draw" x="600" y="264" style="animation-delay:1.96s">,':8(o)./|=|\.(o)8:`.</text>
+    <text class="draw" x="600" y="287" style="animation-delay:2.09s">(O :8 ::/ \_/ \:: 8: O)</text>
+    <text class="draw" x="600" y="310" style="animation-delay:2.22s">\O `::/       \::' O/</text>
+    <text class="draw" x="600" y="333" style="animation-delay:2.35s">""--'         `--""</text>
+  </g>
+
+  <!-- Asymmetrical star clusters -->
+  <g class="soft" font-size="17">
+    <text class="twinkle" x="355" y="70" style="animation-delay:.3s">✦</text>
+    <text class="twinkle" x="390" y="115" style="animation-delay:1.1s">⋆</text>
+    <text class="twinkle" x="333" y="228" style="animation-delay:2.0s">✧</text>
+    <text class="twinkle" x="420" y="357" style="animation-delay:.7s">·  ✦</text>
+    <text class="twinkle" x="765" y="78" style="animation-delay:1.8s">⋆</text>
+    <text class="twinkle" x="818" y="154" style="animation-delay:.5s">✦  ·</text>
+    <text class="twinkle" x="793" y="276" style="animation-delay:2.4s">✧</text>
+    <text class="twinkle" x="736" y="372" style="animation-delay:1.3s">⋆  ✦</text>
+    <text class="twinkle" x="505" y="61" style="animation-delay:2.2s">·</text>
+    <text class="twinkle" x="687" y="385" style="animation-delay:.9s">·</text>
+  </g>
+
+  <text class="draw soft" x="600" y="402" text-anchor="middle" font-size="13" letter-spacing="5" style="animation-delay:2.65s">✦  CREATE · CODE · CURIOUS  ✦</text>
+</svg>
