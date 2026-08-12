@@ -86,18 +86,32 @@
     ✦　　　⋆　　　˚　　　　✧　　　·　　　✦
   </p>
 
+ <div align="center">
+
+  <p>
+    ✦　　　⋆　　　˚　　　　✧　　　·　　　✦
+  </p>
+
   <img
     src="./bow-art.png"
-    width="55%"
+    width="18%"
     alt="Pink dotted bow"
   />
 
-  <br><br>
+  <h2>Want to know more?</h2>
+
+  <p>
+    Explore my experience, technical skills, leadership,
+    and relevant coursework.
+  </p>
+
+  <br>
 
   <a href="./Laraib-Nadeem-Resume.pdf">
     <img
-      src="https://img.shields.io/badge/View_My_Résumé-F4B8CF?style=for-the-badge&logo=adobeacrobatreader&logoColor=08080B"
-      alt="View Laraib's résumé"
+      src="https://img.shields.io/badge/EXPLORE_MY_RÉSUMÉ-F4B8CF?style=for-the-badge&logo=adobeacrobatreader&logoColor=08080B"
+      height="65"
+      alt="Explore Laraib's résumé"
     />
   </a>
 
@@ -109,14 +123,6 @@
 
   <p>
     ୨ৎ　·　˚　──────　♡　──────　˚　·　୨ৎ
-  </p>
-
-</div>
-
-<br>
-
-  <p>
-    ──────୨ৎ──────　♡　──────୨ৎ──────
   </p>
 
 </div>
