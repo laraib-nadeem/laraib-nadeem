@@ -110,3 +110,43 @@
   </p>
 
 <br>
+
+**<div align="center">
+
+  <h2>⌨ Tech Stack</h2>
+
+  <p>Languages I’ve worked with</p>
+
+  <img
+    src="https://skillicons.dev/icons?i=python,cpp,c,js,swift,html,css&theme=dark"
+    alt="Programming languages"
+  />
+
+  <p>Tools & Frameworks</p>
+
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,express,git,github,vscode&theme=dark"
+    alt="Development tools and frameworks"
+  />
+
+  <br>
+
+  <img
+    src="https://img.shields.io/badge/SwiftUI-F4B8CF?style=for-the-badge&logo=swift&logoColor=08080B"
+    alt="SwiftUI"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Xcode-F4B8CF?style=for-the-badge&logo=xcode&logoColor=08080B"
+    alt="Xcode"
+  />
+
+  <p>
+    ✦　　　⋆　　　˚　　　　✧　　　·　　　✦
+  </p>
+
+  <p>
+    ୨ৎ　·　˚　──────　♡　──────　˚　·　୨ৎ
+  </p>
+
+</div>**
