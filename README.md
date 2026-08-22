@@ -181,6 +181,47 @@
 
 <div align="center">
 
+  <h2>✦ Featured Projects ✦</h2>
+
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🐈 OIIA Buddy</h3>
+        <p>
+          A floating macOS companion that moves across the Dock,
+          spins, pauses, and reacts with randomized sound.
+        </p>
+        <p>
+          <strong>Swift · SwiftUI · AppKit · AVFoundation</strong>
+        </p>
+        <a href="https://github.com/laraib-nadeem/oiia-buddy">
+          <strong>View project →</strong>
+        </a>
+      </td>
+      <td width="50%" valign="top">
+        <h3>⌕ Text Search Engine</h3>
+        <p>
+          A Python search tool that uses a custom hash table to
+          count and retrieve word frequencies from text files.
+        </p>
+        <p>
+          <strong>Python · Hash Tables · File Processing</strong>
+        </p>
+        <a href="https://github.com/laraib-nadeem/text-search-engine">
+          <strong>View project →</strong>
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <p>
+    ✦　·　˚　──────　♡　──────　˚　·　✦
+  </p>
+
+</div>
+
+<div align="center">
+
   <h2>✦ Contribution Activity ✦</h2>
 
   <p>
