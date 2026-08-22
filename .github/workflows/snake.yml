@@ -1,0 +1,30 @@
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate pink contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: laraib-nadeem
+          outputs: |
+            dist/github-snake.svg?color_snake=%23f4b8cf&color_dots=%23161b22,%23502d3b,%23864f68,%23c17c98,%23f4b8cf
+
+      - name: Publish snake
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
