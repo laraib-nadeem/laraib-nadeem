@@ -111,42 +111,71 @@
 
 <br>
 
-**<div align="center">
+<div align="center">
 
   <h2>⌨ Tech Stack</h2>
 
-  <p>Languages I’ve worked with</p>
-
-  <img
-    src="https://skillicons.dev/icons?i=python,cpp,c,js,swift,html,css&theme=dark"
-    alt="Programming languages"
-  />
-
-  <p>Tools & Frameworks</p>
-
-  <img
-    src="https://skillicons.dev/icons?i=nodejs,express,git,github,vscode&theme=dark"
-    alt="Development tools and frameworks"
-  />
-
-  <br>
-
-  <img
-    src="https://img.shields.io/badge/SwiftUI-F4B8CF?style=for-the-badge&logo=swift&logoColor=08080B"
-    alt="SwiftUI"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Xcode-F4B8CF?style=for-the-badge&logo=xcode&logoColor=08080B"
-    alt="Xcode"
-  />
+  <p><strong>Languages I’ve worked with</strong></p>
 
   <p>
-    ✦　　　⋆　　　˚　　　　✧　　　·　　　✦
+    <img
+      src="./star-cluster-forming.gif"
+      width="13%"
+      alt="Animated pink stars"
+    />
+    &nbsp;&nbsp;
+    <img
+      src="https://skillicons.dev/icons?i=python,cpp,c,js,swift,html,css&theme=dark"
+      width="48%"
+      alt="Python, C++, C, JavaScript, Swift, HTML, and CSS"
+    />
+    &nbsp;&nbsp;
+    <img
+      src="./star-cluster-forming.gif"
+      width="13%"
+      alt="Animated pink stars"
+    />
+  </p>
+
+  <p><strong>Tools & Frameworks</strong></p>
+
+  <p>
+    <img
+      src="./star-cluster-forming.gif"
+      width="13%"
+      alt="Animated pink stars"
+    />
+    &nbsp;&nbsp;
+    <img
+      src="https://skillicons.dev/icons?i=nodejs,express,git,github,vscode&theme=dark"
+      width="35%"
+      alt="Node.js, Express, Git, GitHub, and VS Code"
+    />
+    &nbsp;&nbsp;
+    <img
+      src="./star-cluster-forming.gif"
+      width="13%"
+      alt="Animated pink stars"
+    />
+  </p>
+
+  <p>
+    <img
+      src="https://img.shields.io/badge/SwiftUI-F4B8CF?style=for-the-badge&logo=swift&logoColor=08080B"
+      height="38"
+      alt="SwiftUI"
+    />
+    &nbsp;&nbsp;
+    <img
+      src="https://img.shields.io/badge/Xcode-F4B8CF?style=for-the-badge&logo=xcode&logoColor=08080B"
+      height="38"
+      alt="Xcode"
+    />
   </p>
 
   <p>
     ୨ৎ　·　˚　──────　♡　──────　˚　·　୨ৎ
   </p>
 
-</div>**
+</div>
+
