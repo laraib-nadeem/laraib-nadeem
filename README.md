@@ -179,3 +179,30 @@
 
 </div>
 
+<div align="center">
+
+  <h2>✦ Contribution Activity ✦</h2>
+
+  <p>
+    Small commits, growing projects, and everything I’m building along the way.
+  </p>
+
+  <img
+    src="./contribution-cat.svg"
+    width="72%"
+    alt="Chubby cat watching Laraib's contributions"
+  />
+
+  <picture>
+    <img
+      src="https://raw.githubusercontent.com/laraib-nadeem/laraib-nadeem/output/github-snake.svg"
+      width="100%"
+      alt="Animated contribution snake"
+    />
+  </picture>
+
+  <p>
+    ୨ৎ　·　˚　──────　♡　──────　˚　·　୨ৎ
+  </p>
+
+</div>
